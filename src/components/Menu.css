@@ -20,8 +20,8 @@
   top: 0px;
   left: 0;
   width: 100%;
-  max-width: 430px;
-  min-height: 100vh;
+  /* max-width: 430px;
+  min-height: 100vh; */
   height: 100%;
   overflow-x: hidden;
   display: flex;
